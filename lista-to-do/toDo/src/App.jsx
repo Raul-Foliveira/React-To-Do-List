@@ -96,4 +96,4 @@ function App() {
 
 export default App
 
-//Utilizando o map para percorrer todos os itens do to do.
+
